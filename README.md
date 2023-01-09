@@ -1,3 +1,6 @@
-# Τίτλος Μαθήματος
+# Kωδικός services - Τίτλος Μαθήματος
 
-#### (N)ο Εξάμηνo
+Συντομή περιγραφή.<br />
+
+IMPORTANT: Στο δημιουργημένο repo, βάλε από τα settings > Collaborators and teams > Manage access, την ομάδα Students με permission Triage.
+
